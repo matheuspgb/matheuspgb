@@ -12,7 +12,7 @@ Nos últimos anos decidi expandir minha atuação para a área de **Segurança O
 
 # 🎯 Objetivo deste GitHub
 
-Este repositório documenta minha jornada de estudos na **Hack The Box Academy**, com foco na trilha **Web Penetration Tester Path** e na preparação para a certificação **Certified Web Exploitation Expert (CWEE)**.
+Este repositório documenta minha jornada de estudos na **Hack The Box Academy**, com foco na trilha **Web Penetration Tester Path** e na preparação para a certificação **HTB Certified Web Exploitation Specialist(CWES)**.
 
 O objetivo é registrar minha evolução durante os estudos, documentando metodologias, anotações técnicas, laboratórios resolvidos e writeups produzidos ao longo da trilha.
 
