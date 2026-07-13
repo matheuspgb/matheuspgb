@@ -12,20 +12,20 @@ Nos últimos anos decidi expandir minha atuação para a área de **Segurança O
 
 # 🎯 Objetivo deste GitHub
 
-Este repositório documenta minha jornada de estudos na **Hack The Box Academy**, com foco na trilha **Web Penetration Tester Path** e na preparação para a certificação **HTB Certified Web Exploitation Specialist(CWES)**.
+Este repositório documenta minha jornada de estudos na **Hack The Box Academy**, com foco na trilha **Web Penetration Tester Path** e na preparação para a certificação **HTB Certified Web Exploitation Specialist (CWES)**.
 
 O objetivo é registrar minha evolução durante os estudos, documentando metodologias, anotações técnicas, laboratórios resolvidos e writeups produzidos ao longo da trilha.
 
-Aqui você encontrará:
+Além dos writeups, este repositório também reunirá projetos aplicando **Machine Learning** e **Inteligência Artificial** à área de **Blue Team**, explorando técnicas para detecção de ameaças, análise de logs, detecção de anomalias, classificação de eventos de segurança e apoio à resposta a incidentes.
+
+## 📚 Você encontrará neste repositório
 
 - 📝 Writeups dos laboratórios da **Web Penetration Tester Path**
 - 🎓 Anotações dos módulos da **Hack The Box Academy**
-- 🌐 Estudos sobre Pentest Web
-- 🔍 Reconhecimento e Enumeração
-- 💥 Exploração de vulnerabilidades
-- 🔐 Pós-exploração
-- ⚙ Scripts de automação
 - 📚 Cheatsheets
-- 🧪 Técnicas e metodologias utilizadas durante os laboratórios
+- 🤖 Algoritmos de **Machine Learning** aplicados à Segurança Defensiva (Blue Team)
+- 🛡️ Estudos sobre IA aplicada à Cyber Security
 
-Todo o conteúdo disponibilizado neste repositório possui finalidade exclusivamente **educacional**, sendo desenvolvido como parte da minha preparação para a certificação e para o aprimoramento contínuo em Segurança Ofensiva.
+---
+
+> **Aviso:** Todo o conteúdo disponibilizado neste repositório possui finalidade exclusivamente **educacional**, sendo desenvolvido como parte da minha preparação para a certificação, pesquisas pessoais e aprimoramento contínuo em **Segurança Ofensiva** e **Segurança Defensiva**.
