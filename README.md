@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👨‍💻 Sobre mim
 
-<!--
-**matheuspgb/matheuspgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é **Matheus**.
 
-Here are some ideas to get you started:
+Sou **Estatístico**, formado pela **Universidade de São Paulo (USP)**, com experiência em **Métodos de Amostragem**, **Inferência Estatística**, **Estatística Bayesiana**, **Ciência de Dados**, **Machine Learning** e **Engenharia de Dados**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ao longo da minha carreira participei de projetos para empresas dos setores **financeiro** e **marketing**, desenvolvendo soluções de modelagem estatística, análise preditiva, séries temporais, pipelines de dados e aplicações voltadas à tomada de decisão baseada em dados.
+
+Nos últimos anos decidi expandir minha atuação para a área de **Segurança Ofensiva**, aplicando a mesma abordagem analítica e metodológica ao estudo de vulnerabilidades, exploração de aplicações web e testes de invasão.
+
+---
+
+# 🎯 Objetivo deste GitHub
+
+Este repositório documenta minha jornada de estudos na **Hack The Box Academy**, com foco na trilha **Web Penetration Tester Path** e na preparação para a certificação **Certified Web Exploitation Expert (CWEE)**.
+
+O objetivo é registrar minha evolução durante os estudos, documentando metodologias, anotações técnicas, laboratórios resolvidos e writeups produzidos ao longo da trilha.
+
+Aqui você encontrará:
+
+- 📝 Writeups dos laboratórios da **Web Penetration Tester Path**
+- 🎓 Anotações dos módulos da **Hack The Box Academy**
+- 🌐 Estudos sobre Pentest Web
+- 🔍 Reconhecimento e Enumeração
+- 💥 Exploração de vulnerabilidades
+- 🔐 Pós-exploração
+- ⚙ Scripts de automação
+- 📚 Cheatsheets
+- 🧪 Técnicas e metodologias utilizadas durante os laboratórios
+
+Todo o conteúdo disponibilizado neste repositório possui finalidade exclusivamente **educacional**, sendo desenvolvido como parte da minha preparação para a certificação e para o aprimoramento contínuo em Segurança Ofensiva.
