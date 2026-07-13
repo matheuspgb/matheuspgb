@@ -29,3 +29,15 @@ Além dos writeups, este repositório também reunirá projetos aplicando **Mach
 ---
 
 > **Aviso:** Todo o conteúdo disponibilizado neste repositório possui finalidade exclusivamente **educacional**, sendo desenvolvido como parte da minha preparação para a certificação, pesquisas pessoais e aprimoramento contínuo em **Segurança Ofensiva** e **Segurança Defensiva**.
+
+
+## 🌎 Contato
+
+<p>
+
+<a href="https://www.linkedin.com/in/matheus-blanco/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+
+</p>
